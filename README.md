@@ -2,7 +2,7 @@
 - Faucetinabox core + Coinbox feature
 - Free Faucet Script supports short link, multi currency, responsive design,.../
 - Faucetbox shortlink
-- Need helps ? Go to our forum: http://coinbox.club/threads/free-coinbox-faucet-script.5
+- Need helps ? Go to our forum: http://coinbox.club/threads/coinbox-script-faucetinabox-core-and-coinbox-features.694/
 
 # Installation Instruction
 
