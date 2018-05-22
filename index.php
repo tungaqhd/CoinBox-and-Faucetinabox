@@ -579,7 +579,7 @@ if (isset($_GET['k'])) {
                     break;
                 }
             }
-            if (!isset($short_link)) {
+            if (!isset($url)) {
                 $url = $link_default;
                 $full_url = str_replace("{key}",$key,$url);
             } 
